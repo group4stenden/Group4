@@ -7,6 +7,7 @@
 </head>
 <body>
     <?php
+    $API_KEY="3a1feb994d5c7fe618295efd7a0247fc";
     // code here
     ?>
 </body>
